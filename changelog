@@ -1,0 +1,5 @@
+comm versions above were experimental.
+
+comm 0.3a
+-floating point amount (for weight);
+-more organized and clear interface;
